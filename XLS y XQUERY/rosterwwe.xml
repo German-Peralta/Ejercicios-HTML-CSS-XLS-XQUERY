@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/usuario/Desktop/LEUP%20EXAMEN/EXA_DIS/EXA_DIS/XSLT.xsl"?>
+<rosterwwe>
+<compet clase="raw">
+
+<catg tipo="individual">
+
+<infoperosnal>
+<nombrereal>Marck Kalaway</nombrereal>
+<gimnick>The Undertaker</gimnick>
+<edad>54</edad>
+<nacionalidad>USA</nacionalidad>
+</infoperosnal>
+
+<titulos>wwf 4veces, whc 3 veces, wwf tag team 6veces, wcw tag team 1vez,</titulos>
+
+<infoperosnal>
+<nombrereal>Randal Keith Orton</nombrereal>
+<gimnick>Randy Orton</gimnick>
+<edad>39</edad>
+<nacionalidad>USA</nacionalidad>
+</infoperosnal>
+<titulos>wwe 4veces, mundial pesado 3veces,campeon intercontinental,campeon mundial por parejas.</titulos>
+</catg>
+
+<catg tipo="tagteam">
+<infoperosnal>
+<nombrereal>Poul Levesque</nombrereal>
+<gimnick>Triple H</gimnick>
+<edad>50</edad>
+<nacionalidad>USA</nacionalidad>
+<nombrereal>Michael Shawn Hickenbottom </nombrereal>
+<gimnick>Shawn Michaels</gimnick>
+<edad>54</edad>
+<nacionalidad>USA</nacionalidad>
+</infoperosnal>
+<titulos>wwf/e world tag team 7veces, wwe tag team 1vez</titulos>
+<infoperosnal>
+<nombrereal>Kanako Urain</nombrereal>
+<gimnick>Asuka</gimnick>
+<edad>38</edad>
+<nacionalidad>Japonesa</nacionalidad>
+<nombrereal>Kaori Housako</nombrereal>
+<gimnick>Kairi sane</gimnick>
+<edad>31</edad>
+<nacionalidad>Japonesa</nacionalidad>
+</infoperosnal>
+<titulos>wwe womes championship</titulos>
+</catg>
+
+</compet>
+
+<compet clase="smackdown">
+
+<catg tipo="individual">
+<infoperosnal>
+<nombrereal>Adam Joseph Copeland</nombrereal>
+<gimnick>Edge</gimnick>
+<edad>46</edad>
+<nacionalidad>Canada</nacionalidad>
+</infoperosnal>
+<titulos>wwe champion 4veces, pesos pesados 7veces, campeon por parejas 12veces</titulos>
+<infoperosnal>
+<nombrereal>	Mercedes Kaestner-Varnado</nombrereal>
+<gimnick>Sasha Banks</gimnick>
+<edad>27</edad>
+<nacionalidad>USA</nacionalidad>
+</infoperosnal>
+<titulos>raw womens champion 4veces, wwe womens tag team, nxt women champion</titulos>
+</catg>
+
+<catg tipo="tagteam">
+
+<infoperosnal>
+<nombrereal>Matthew "Matt" Moore Hardy</nombrereal>
+<gimnick>Matt Hardy</gimnick>
+<edad>45</edad>
+<nacionalidad>USA</nacionalidad>
+<nombrereal>Jeffrey Nero Hardy</nombrereal>
+<gimnick>Jeff Hardy</gimnick>
+<edad>42</edad>
+<nacionalidad>USA</nacionalidad>
+</infoperosnal>
+
+<titulos>raw tag team, smackdown tag team, Word tag team 6 veces, wcw tag team, </titulos>
+
+<infoperosnal>
+<nombrereal>Brianna Monique Garcia-Colace</nombrereal>
+<gimnick>Brie Bella</gimnick>
+<edad>36</edad>
+<nacionalidad>USA</nacionalidad>
+<nombrereal>Stephanie Nicole Garcia-Colace</nombrereal>
+<gimnick>Nikki Bella</gimnick>
+<edad>36</edad>
+<nacionalidad>USA</nacionalidad>
+</infoperosnal>
+
+<titulos>wwe divas champion 3veces</titulos>
+</catg>
+
+</compet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</rosterwwe>

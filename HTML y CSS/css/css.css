@@ -1,0 +1,131 @@
+
+body
+{
+
+    background-image: url(../imagenes_video/imagenes_video/fondo.png);
+    
+}
+
+.marco_principal{ width: 900px; 
+    margin-left: auto;
+    margin-right: auto;}
+
+.titulo{background-image: url(../imagenes_video/imagenes_video/fotoindex1.png);
+height: 150px; padding-top: 10px; padding-bottom: 10px; box-shadow: 0px 4px 4px #1c1a19; 
+border-radius: 5px;}
+
+.titulo h1{margin-top: 0px;}
+
+article
+{
+   width: 600px;
+   margin-left: 20px;
+   margin-top: 10px;
+   background-color:lightgreen;
+   text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   display: inline-block;
+   
+ }
+ nav
+{
+	text-align: center;
+}
+
+
+nav ul
+{
+    list-style-type: none;
+}
+
+nav li
+{
+    display: inline-block;
+
+}
+nav a
+{
+    padding-bottom: 3px;
+    text-decoration: none;
+    color: black
+    ;
+
+}
+aside{float: right;display: inline-block;
+border-style: solid black;
+text-align: center;
+    width: 235px;
+    background-color: orange ;
+    box-shadow: 0px 2px 5px #1c1a19; /* Efecto sombreado <offset-x> <offset-y> <radius> <color> */
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;}
+aside div{
+    padding: 3px;
+    background-color: #988C89;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 10px;
+}
+
+
+
+aside img
+{
+    margin-right: 5px;
+}
+
+header 
+{
+    text-align: center;
+
+}
+
+marco_principal{
+
+    width: 900px;
+
+    margin: auto;
+
+}
+footer p
+{
+
+ 
+   position: relative;
+   margin-top: 20px;
+   text-align: center;
+   padding: 20px;
+   border-top: 1px solid grey;
+   }
+
+   form{background-color: lightgreen;
+   border-radius: 8px;
+   border: solid grey 1px;
+   width: 350px;
+   padding: 10px;margin-left: auto;
+    margin-right: auto;
+
+   }
+
+   form h2{text-align: center;}
+   
+    .centrado{display: block;  margin-left: auto;
+    margin-right: auto;}
+
+    table{border: solid grey 6px;border-collapse: collapse;margin-left: auto;
+      margin-right: auto;
+      
+       }
+
+       .tabla{background-color: lightgreen; border-radius: 5px;padding: 10px;
+        border: solid grey 2px;width: 500px;margin-left: auto;
+      margin-right: auto;}
+
+
+    td{border: solid grey 2px;
+      }
